@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Loris Moreau's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loris-Moreau&hide=issues&show_icons=true&theme=merko)](https://github.com/Loris-Moreau/github-readme-stats)
+[![Loris Moreau's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loris-Moreau&hide=issues&show_icons=true&theme=radical)](https://github.com/Loris-Moreau/github-readme-stats)

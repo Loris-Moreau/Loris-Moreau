@@ -6,7 +6,7 @@ You can check out some prototypes I made on [Itch.io](https://loris-moreau.itch.
 <!-- **Loris-Moreau/Loris-Moreau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <a href="https://github.com/Loris-Moreau/github-readme-stats">
-  <img width 400 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Loris-Moreau&hide=issues&show_icons=true&theme=radical&rank_icon=github" />
+  <img width 200 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Loris-Moreau&hide=issues&show_icons=true&theme=radical&rank_icon=github" />
 </a>
 <!-- Prog Languages -->
 <a href="https://github.com/Loris-Moreau/github-readme-stats">

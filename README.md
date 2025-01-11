@@ -5,8 +5,14 @@ I'm a Gameplay programmer, my main interests are C++/C#, Tech art (procedural st
 You can check out some prototypes I made on [Itch.io](https://loris-moreau.itch.io)
 <!-- **Loris-Moreau/Loris-Moreau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Loris-Moreau&hide=issues&show_icons=true&theme=radical&rank_icon=github)](https://github.com/Loris-Moreau/github-readme-stats)
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Loris-Moreau&hide=issues&show_icons=true&theme=radical&rank_icon=github)](https://github.com/Loris-Moreau/github-readme-stats)
 
-<!-- Prog Languages -->
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Loris-Moreau&theme=radical&layout=donut)](https://github.com/Loris-Moreau/github-readme-stats)
-
+<!-- Prog Languages --
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Loris-Moreau&theme=radical&layout=compact)](https://github.com/Loris-Moreau/github-readme-stats)
+-->
+<a href="https://github.com/Loris-Moreau/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Loris-Moreau&hide=issues&show_icons=true&theme=radical&rank_icon=github" />
+</a>
+<a href="https://github.com/Loris-Moreau/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loris-Moreau&theme=radical&layout=compact" />
+</a>

@@ -12,3 +12,5 @@ You can check out some prototypes I made on [Itch.io](https://loris-moreau.itch.
 <a href="https://github.com/Loris-Moreau/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Loris-Moreau&hide=issues&show_icons=true&theme=radical&rank_icon=github" />
 </a>
+
+[![Loris's WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Loris_Moreau)](https://github.com/Loris-Moreau/github-readme-stats)

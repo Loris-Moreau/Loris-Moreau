@@ -14,5 +14,5 @@ You can check out some prototypes I made on [Itch.io](https://loris-moreau.itch.
 </a>
 
 <a href="https://github.com/Loris-Moreau/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Loris_Moreau&theme=radical&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Loris_Moreau&theme=radical" />
 </a>

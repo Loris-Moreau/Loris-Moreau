@@ -6,11 +6,11 @@ You can check out some prototypes I made on [Itch.io](https://loris-moreau.itch.
 
 <!-- Prog Languages -->
 <a href="https://github.com/Loris-Moreau/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loris-Moreau&theme=radical&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loris-Moreau&size_weight=0.5&count_weight=0.5&theme=radical&layout=compact&langs_count=6" />
 </a>
 <!-- WakaTime Stats -->
 <a href="https://github.com/Loris-Moreau/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Loris_Moreau&theme=radical&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Loris_Moreau&theme=radical&layout=compact&langs_count=8" />
 </a>
 <!-- Github Stats -->
 <a href="https://github.com/Loris-Moreau/github-readme-stats">

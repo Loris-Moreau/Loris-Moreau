@@ -11,5 +11,7 @@ You can check out some prototypes I made on [Itch.io](https://loris-moreau.itch.
   <!-- WakaTime Stats -->
   <img width=573 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Loris_Moreau&theme=radical&layout=compact&langs_count=8" />
   <!-- Github Stats -->
+  <!--
   <img width=500 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Loris-Moreau&hide=issues&show_icons=true&theme=radical&rank_icon=github" />
+  -->
 </p>

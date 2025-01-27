@@ -1,6 +1,6 @@
 ## Hoi, I'm Loris Moreau
 
-I'm a Gameplay programmer, my main interests are C++/C#, Tech art (procedural stuff), Game Development & other things
+I'm a Gameplay programmer, my main interests are C++/C#, Tech art, Game Development & other things
 
 You can check out some prototypes I made on [Itch.io](https://loris-moreau.itch.io)
 

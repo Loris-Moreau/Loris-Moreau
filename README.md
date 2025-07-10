@@ -1,8 +1,13 @@
 <h1 align = "center"> Hoi, I'm Loris Moreau </h1>
 
+<br>
+
 <h3 align = "center"> I'm a Gameplay programmer, my main interests are C++/C#, Tech art, Game Development & other things </h3>
 
 <h4 align = "center"> You can check out some prototypes I made on <a href="https://loris-moreau.itch.io" target="_blank">itch.io</a> </h4>
+
+<br>
+<br>
 
 <!-- Stats -->
 <div align="center">

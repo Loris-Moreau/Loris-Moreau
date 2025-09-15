@@ -32,8 +32,8 @@
 
 <h3 align = "center"> I'm a Gameplay programmer, my main interests are Game Development, Tech art, & electronics </h3>
 
-<h4 align = "center"> You can check out some prototypes I made on <a href="https://loris-moreau.itch.io" target="_blank">itch.io</a> </h4>
-<h4 align = "center"> or at my <a href="https://loris-moreau.github.io/" target="_blank">website</a> </h4>
+<p align = "center"> You can check out some prototypes I made on <a href="https://loris-moreau.itch.io" target="_blank">itch.io</a> </p>
+<p align = "center"> or at my <a href="https://loris-moreau.github.io/" target="_blank">website</a> </hp>
 
 <br>
 

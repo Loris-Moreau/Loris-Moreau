@@ -21,6 +21,8 @@
   |
   <img align="center" alt="Git" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   
+  <img align="center" alt="Git" width="30px" style="padding-right:20px;" src="https://github.com/Loris-Moreau/Loris-Moreau/blob/main/Assets/P4V-Logo.svg" />
+  
   <img align="center" alt="Linux" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   
   <img align="center" alt="Pi" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />

@@ -48,7 +48,7 @@
   <!-- WakaTime Stats -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Loris_Moreau&theme=radical&layout=compact&langs_count=8"  width = 50% /> -->
   <!-- ![Stats](./profile/wakatime.svg) -->
-  <img src="https://github.com/Loris-Moreau/Loris-Moreau/blob/main/profile/stats.svg"  width = 50% />
+  <img src="https://github.com/Loris-Moreau/Loris-Moreau/blob/main/profile/wakatime.svg"  width = 50% />
   <!-- Github Stats -->
   <!--
   <img src="https://github-readme-stats.vercel.app/api?username=Loris-Moreau&hide=issues&show_icons=true&theme=radical&rank_icon=github" width=35% />

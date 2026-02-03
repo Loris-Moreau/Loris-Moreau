@@ -42,12 +42,14 @@
 <!-- Stats -->
 <div align="center">
   <!-- Prog Languages -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loris-Moreau&size_weight=0.5&count_weight=0.5&theme=radical&layout=compact&langs_count=6" width = 35% /> -->
   ![Stats](./profile/top-langs.svg)
   <!-- WakaTime Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Loris_Moreau&theme=radical&layout=compact&langs_count=8"  width = 50% />
-  ![Stats](./profile/top-langs.svg)
+  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Loris_Moreau&theme=radical&layout=compact&langs_count=8"  width = 50% /> -->
+  ![Stats](./profile/wakatime.svg)
   <!-- Github Stats -->
   <!--
+  <img src="https://github-readme-stats.vercel.app/api?username=Loris-Moreau&hide=issues&show_icons=true&theme=radical&rank_icon=github" width=35% />
   ![Stats](./profile/stats.svg)
   -->
 </div>

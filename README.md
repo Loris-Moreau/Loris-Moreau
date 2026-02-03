@@ -43,13 +43,19 @@
 <div align="center">
   <!-- Prog Languages -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loris-Moreau&size_weight=0.5&count_weight=0.5&theme=radical&layout=compact&langs_count=6" width = 35% /> -->
-  ![Stats](./profile/top-langs.svg)
+  <!-- ![Stats](./profile/top-langs.svg) -->
+  <img src="https://github.com/Loris-Moreau/Loris-Moreau/blob/main/profile/top-langs.svg" width = 35% />
   <!-- WakaTime Stats -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Loris_Moreau&theme=radical&layout=compact&langs_count=8"  width = 50% /> -->
-  ![Stats](./profile/wakatime.svg)
+  <!-- ![Stats](./profile/wakatime.svg) -->
+  <img src="https://github.com/Loris-Moreau/Loris-Moreau/blob/main/profile/stats.svg"  width = 50% />
   <!-- Github Stats -->
   <!--
   <img src="https://github-readme-stats.vercel.app/api?username=Loris-Moreau&hide=issues&show_icons=true&theme=radical&rank_icon=github" width=35% />
   ![Stats](./profile/stats.svg)
   -->
 </div>
+
+https://github.com/Loris-Moreau/Loris-Moreau/blob/main/profile/stats.svg
+
+  <img align="center" alt="Arduino" width="30px" style="padding-right:20px;" src="https://github.com/Loris-Moreau/loris-moreau.github.io/blob/main/Images/Logos/houdini_badge_flat.svg" />

@@ -55,7 +55,3 @@
   ![Stats](./profile/stats.svg)
   -->
 </div>
-
-https://github.com/Loris-Moreau/Loris-Moreau/blob/main/profile/stats.svg
-
-  <img align="center" alt="Arduino" width="30px" style="padding-right:20px;" src="https://github.com/Loris-Moreau/loris-moreau.github.io/blob/main/Images/Logos/houdini_badge_flat.svg" />

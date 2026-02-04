@@ -55,5 +55,4 @@
   <img src="https://github.com/Loris-Moreau/Loris-Moreau/blob/main/profile/stats.svg" width=35% />
   ![Stats](./profile/stats.svg)
   -->
-  <figure><embed src="https://wakatime.com/share/@Loris_Moreau/bbac8f19-8369-486a-8f63-bfa361c1d0f5.svg"></embed></figure>
 </div>
